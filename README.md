@@ -8,7 +8,7 @@ Specficication from the project manager:
 
 2. Users can log in and log out by creating or destroying a token.
 
-3. When a user is logged in, they should be able to GET all the possible menu items (these items can be hardcoded into the system).
+3. A logged in, should be able to GET all the possible menu items.
 
 4. A logged-in user should be able to fill a shopping cart with menu items
 
